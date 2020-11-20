@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 from PIL import Image
 import tensorflow as tf
 from tensorflow import keras
-import keras_contrib
 import tensorflow_addons as tfa
 
 st.markdown("Monet Style Generator🎨")
