@@ -1,5 +1,5 @@
 streamlit run app.py
 
-#finished read a file and print it directly
+#finished read a file and print the prediction
 
-#todo: use a model to predict the painting
+#todo: modify pre-processor part
