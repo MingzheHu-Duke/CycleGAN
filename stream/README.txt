@@ -1,5 +1,5 @@
 streamlit run app.py
 
-#finished read a file and print the prediction
+#finished read a file and print the prediction correctly
 
-#todo: modify pre-processor part
+#todo: beautify the ui
